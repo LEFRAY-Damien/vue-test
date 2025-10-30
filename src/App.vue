@@ -8,6 +8,10 @@ import Exo6ListRendering from './components/Exo6ListRendering.vue';
 import Exo7ClassBinding from './components/Exo7ClassBinding.vue';
 import FormulaireSimple from './components/FormulaireSimple.vue';
 import ListeDeTaches from './components/ListeDeTaches.vue';
+import AffichageDinamique from './components/AffichageDinamique.vue';
+import ListeDeProduits from './components/ListedeProduits.vue';
+import CompteurInteractif from './components/CompteurInteractif.vue';
+import ValidationFormulaire from './components/ValidationFormulaire.vue';
 
 </script>
 
@@ -30,7 +34,15 @@ import ListeDeTaches from './components/ListeDeTaches.vue';
 
     <!-- <FormulaireSimple/> -->
 
-    <ListeDeTaches/>
+    <!-- <ListeDeTaches/> -->
+
+    <!-- <AffichageDinamique/> -->
+
+    <!-- <ListeDeProduits/> -->
+
+    <!-- <CompteurInteractif/> -->
+
+    <ValidationFormulaire/>
 
 
   </div>
