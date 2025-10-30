@@ -6,6 +6,8 @@ import Exo4TwoWayBinding from './components/Exo4TwoWayBinding.vue';
 import Exo5ConditionalRendering from './components/Exo5ConditionalRendering.vue';
 import Exo6ListRendering from './components/Exo6ListRendering.vue';
 import Exo7ClassBinding from './components/Exo7ClassBinding.vue';
+import FormulaireSimple from './components/FormulaireSimple.vue';
+import ListeDeTaches from './components/ListeDeTaches.vue';
 
 </script>
 
@@ -24,7 +26,11 @@ import Exo7ClassBinding from './components/Exo7ClassBinding.vue';
 
     <!-- <Exo6ListRendering /> -->
 
-    <Exo7ClassBinding />
+    <!-- <Exo7ClassBinding /> -->
+
+    <!-- <FormulaireSimple/> -->
+
+    <ListeDeTaches/>
 
 
   </div>
